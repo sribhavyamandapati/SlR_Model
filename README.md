@@ -265,7 +265,7 @@ pip install gunicorn
 3. Set build command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
 
 4. Set start command:
@@ -285,7 +285,7 @@ After deployment, Render generates a **public URL**, and **anyone can access the
 👉 **Add your GitHub repository link here**
 
 ```text
-https://github.com/your-username/simple-linear-regression
+https://github.com/sribhavyamandapati/SlR_Model/
 ```
 
 ### Live Demo / Render Link
@@ -293,16 +293,11 @@ https://github.com/your-username/simple-linear-regression
 👉 **Add your Render deployment link here**
 
 ```text
-https://your-render-app.onrender.com
+https://slr-model-2-mt16.onrender.com
 ```
 
 ### Trained Model Download Link
 
-👉 **Add your model file link here**
-
-```text
-https://your-model-download-link.com/model.pkl
-```
 
 ---
 
@@ -330,7 +325,7 @@ Input:
 Years of Experience = 5
 
 Model Prediction:
-Predicted Salary = ₹XXXXX
+Predicted Salary = ₹72440.6596269317
 ```
 
 The prediction is generated using the **trained linear regression model** loaded from `model.pkl`.
