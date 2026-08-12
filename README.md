@@ -382,20 +382,3 @@ Deployed the application on **Render Cloud** using **Gunicorn** and **Procfile**
 This project provides a **simple, efficient, and fully deployable salary prediction system** and serves as an excellent beginner-level **Machine Learning + Flask + Deployment project**.
 
 ---
-
-## 👩‍💻 Author
-
-**Sreebhavya Mandapati**
-
-* Final Year B.Tech (Information Technology)
-* Aspiring **Data Scientist**
-* Interested in **Machine Learning, AI, and Web Deployment**
-
-### 📧 Contact
-
-* **GitHub:** `https://github.com/your-username`
-* **LinkedIn:** `https://linkedin.com/in/your-linkedin-id`
-
----
-
-⭐ **If you found this project useful, please give it a star on GitHub!**
