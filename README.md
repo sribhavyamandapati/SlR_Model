@@ -173,7 +173,7 @@ simple-linear-regression/
 ├── app.py
 ├── model.pkl
 ├── salary.csv
-├── requirements.txt
+├── requirments.txt
 ├── Procfile
 │
 ├── templates/
